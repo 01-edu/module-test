@@ -2,45 +2,91 @@
 
 ## Question 1
 
-What is a social network?
+What is the main objective of this project?
 
-- [ ] A type of database
-- [x] A platform for connecting people online
-- [ ] A programming language
-- [ ] A server architecture
+- [ ] To build a static website  
+- [x] To create a Facebook-like social network  
+- [ ] To develop a mobile application only  
+- [ ] To design a database system without a frontend  
 
 ## Question 2
 
-Which protocol is commonly used for real-time messaging in social networks?
+Which feature is required in the social network?
 
-- [ ] HTTP
-- [ ] FTP
-- [x] WebSocket
-- [ ] SMTP
+- [ ] Online payments  
+- [ ] Video streaming  
+- [x] Followers system  
+- [ ] Search engine optimization  
 
 ## Question 3
 
-What does API stand for?
+Which technologies are used for frontend development?
 
-- [ ] Application Programming Interface
-- [x] Application Programming Interface
-- [ ] Advanced Protocol Integration
-- [ ] Automated Process Interface
+- [ ] Go and SQLite  
+- [x] HTML, CSS, and JavaScript  
+- [ ] Python and Flask  
+- [ ] Java only  
 
 ## Question 4
 
-Which database type is often used for storing social connections?
+Why must a JavaScript framework be used?
 
-- [ ] Relational databases only
-- [ ] File-based storage
-- [x] Graph databases
-- [ ] None of the above
+- [ ] To replace the backend  
+- [x] To organize the project and speed up development  
+- [ ] To manage the database  
+- [ ] To avoid writing JavaScript  
 
 ## Question 5
 
-What is authentication in the context of a social network?
+Which database is required for this project?
 
-- [ ] Verifying data integrity
-- [x] Verifying user identity
-- [ ] Encrypting messages
-- [ ] Loading user profiles
+- [ ] MySQL  
+- [ ] PostgreSQL  
+- [x] SQLite  
+- [ ] MongoDB  
+
+## Question 6
+
+What is the purpose of database migrations?
+
+- [ ] To store images  
+- [x] To create and manage database tables automatically  
+- [ ] To encrypt user passwords  
+- [ ] To handle frontend routing  
+
+## Question 7
+
+What is used to keep users authenticated after login?
+
+- [ ] WebSockets  
+- [ ] Local storage only  
+- [x] Sessions and cookies  
+- [ ] HTTP headers only  
+
+## Question 8
+
+Who can see a post marked as **private**?
+
+- [ ] All users  
+- [ ] Only the creator  
+- [x] Only selected followers chosen by the creator  
+- [ ] Group members only  
+
+## Question 9
+
+Which technology enables real-time private messaging?
+
+- [ ] HTTP  
+- [ ] REST API  
+- [x] WebSocket  
+- [ ] FTP  
+
+## Question 10
+
+Why are two Docker containers required?
+
+- [ ] One for the database and one for users  
+- [x] One for the backend and one for the frontend  
+- [ ] One for images and one for videos  
+- [ ] Docker is optional  
+
