@@ -6,7 +6,7 @@
     "eventDuration": 1051920,
     "eventStartDelay": 240,
     "graph": {
-      "centralPoint": "checkpoint",
+      "centralPoint": "social-network-quiz",
       "innerCircle": [],
       "middleCircle": [],
       "outerCircle": []
