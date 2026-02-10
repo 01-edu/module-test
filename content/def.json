@@ -156,9 +156,7 @@
   },
   "children": {
     "social-network-quiz": {
-      "baseXp": 946000,
-      "requirements": { "objects": ["../social-network-quiz"] },
-      "baseSkills": {}
+      "baseXp": 946000
     }
   }
 }
