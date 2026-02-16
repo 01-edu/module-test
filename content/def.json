@@ -7,7 +7,19 @@
     "eventStartDelay": 240,
     "graph": {
       "centralPoint": "social-network-quiz",
-      "innerCircle": [],
+      "innerCircle": [
+        {
+          "id": "k9sioe82ws2",
+          "name": {
+            "text": "Employability",
+            "hidden": false
+          },
+          "type": "line",
+          "contents": [
+            "building-resume"
+          ]
+        }
+      ],
       "middleCircle": [],
       "outerCircle": []
     },
@@ -156,7 +168,12 @@
   },
   "children": {
     "social-network-quiz": {
-      "baseXp": 946000
+      "baseXp": 9000
+    },
+    "building-resume": {
+      "baseXp": 1000,
+      "requiredAuditRatio": 0,
+      "baseSkills": { "employability": 20 }
     }
   }
 }
