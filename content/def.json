@@ -15,9 +15,7 @@
             "hidden": false
           },
           "type": "line",
-          "contents": [
-            "building-resume"
-          ]
+          "contents": ["building-resume"]
         }
       ],
       "middleCircle": [],
@@ -167,9 +165,7 @@
     ]
   },
   "children": {
-    "social-network-quiz": {
-      "baseXp": 9000
-    },
+    "social-network-quiz": {},
     "building-resume": {
       "baseXp": 1000,
       "requiredAuditRatio": 0,
