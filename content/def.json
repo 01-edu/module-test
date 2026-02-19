@@ -19,7 +19,20 @@
         }
       ],
       "middleCircle": [],
-      "outerCircle": []
+      "outerCircle": [
+        {
+          "id": "l468y07lpde",
+          "name": {
+            "text": "Life Skills",
+            "hidden": false
+          },
+          "contents": [
+            "self-management",
+            "communication",
+            "values"
+          ]
+        }
+      ]
     },
     "levelsDefinitions": [
       { "level": 10, "requirements": { "skills": { "prog": 10 } } },
@@ -170,6 +183,24 @@
       "baseXp": 1000,
       "requiredAuditRatio": 0,
       "baseSkills": { "employability": 20 }
+    },
+    "self-management": {
+      "baseXp": 1000,
+      "requiredAuditRatio": 0,
+      "requirements": { "objects": ["../social-network-quiz"] },
+      "baseSkills": { "personal-development": 20 }
+    },
+    "communication": {
+      "baseXp": 1000,
+      "requiredAuditRatio": 0,
+      "requirements": { "objects": ["../self-management"] },
+      "baseSkills": { "personal-development": 20 }
+    },
+    "values": {
+      "baseXp": 1000,
+      "requiredAuditRatio": 0,
+      "requirements": { "objects": ["../communication"] },
+      "baseSkills": { "personal-development": 20 }
     }
   }
 }
