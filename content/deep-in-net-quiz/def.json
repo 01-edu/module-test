@@ -1,0 +1,7 @@
+{
+  "type": "quiz",
+  "name": "deep-in-net-quiz",
+  "attrs": {
+    "validations": [{ "type": "quiz" }]
+  }
+}
